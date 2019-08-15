@@ -1,6 +1,5 @@
 """
-This script is intended to make a tic tac toe game with 2 playes and
-a bot.
+This script is intended to make a tic tac toe game with 2 playes.
 """
 
 import wx
